@@ -2,7 +2,7 @@
 
 ## Anggota Kelompok
 
-### `Umi Khoiryatin M S - 21120117130075`
+### `Umi Khoiryatin M S - 21120117120005`
 
-### `M Irfan Syarif H - 21120117120013`
+### `M Irfan Syarif H - 21120117120014`
 
