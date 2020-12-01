@@ -1,0 +1,16 @@
+.footer {
+  display: flex;
+  justify-content: space-between;
+  background-color: #e06118;
+  padding: 10px 40px;
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 20;
+
+  .img-logo {
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    cursor: pointer;
+  }
+}
